@@ -1,7 +1,9 @@
-import type { Metadata } from 'next'
-import { Geist, Geist_Mono } from 'next/font/google'
-import { Analytics } from '@vercel/analytics/next'
 import './globals.css'
+
+import { Geist, Geist_Mono } from 'next/font/google'
+
+import { Analytics } from '@vercel/analytics/next'
+import type { Metadata } from 'next'
 
 const _geist = Geist({ subsets: ["latin"] });
 const _geistMono = Geist_Mono({ subsets: ["latin"] });
@@ -9,7 +11,6 @@ const _geistMono = Geist_Mono({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: 'Erick D. Makilagi | Software Engineer',
   description: 'Software Engineer and Frontend Specialist with expertise in Angular, React, and fintech applications. Based in Dar es Salaam, Tanzania.',
-  generator: 'v0.app',
   icons: {
     icon: [
       {
