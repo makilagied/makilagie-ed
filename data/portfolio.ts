@@ -37,6 +37,7 @@ export const experience = [
       "Develop, test, and deploy software solutions based on user and business needs",
       "Design intuitive UI/UX interfaces and prototypes for web and mobile applications",
       "Collaborate with cross-functional teams to ensure seamless system integration",
+      "Supporting core banking system and other fintech applications, ensuring high availability and performance",
       "Perform system troubleshooting, maintenance, and user training",
       "Ensure data security, backups, and compliance with ICT policies",
       "Continuously optimize systems and processes to enhance performance and user experience",
@@ -139,7 +140,7 @@ export const projects = [
     title: "Harusi",
     description: "Wedding planning app for Tanzania. Plan weddings, manage guests, committees, pledges, budget, invitations, and more—all in Tanzanian Shillings (TZS). Features include a marketing landing page, organizer and admin dashboards, auth & roles, and pre-loaded sample data for testing.",
     period: "2026 - Present",
-    link: "https://harusi-io.vercel.app/",
+    link: "https://harusiyetu.co.tz/",
     className: "md:col-span-2",
   },
   {
