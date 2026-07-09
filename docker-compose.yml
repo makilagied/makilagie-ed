@@ -1,0 +1,7 @@
+services:
+  portfolio:
+    image: localhost:5000/portfolio:${IMAGE_TAG:-latest}
+    container_name: portfolio
+    restart: unless-stopped
+    ports:
+      - "3000:3000"
