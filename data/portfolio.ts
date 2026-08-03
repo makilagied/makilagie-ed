@@ -144,6 +144,12 @@ export const projects = [
     title: "Quadraat Global Software House",
     description: "Developing and maintaining software applications and scalable solutions, providing technical support and troubleshooting, and creating technical documentation in collaboration with cross-functional teams.",
     period: "2026 - Present",
+    className: "md:col-span-3",
+  },
+  {
+    title: "CIS Matrix",
+    description: "Modern platform for fund and Collective Investment Scheme (CIS) management. Provides multi-fund administration, client onboarding with integrated KYC, transaction processing (subscriptions, redemptions, transfers, switches) with configurable role-based approval workflows, consolidated portfolio management across bonds, deposits, and equities, automated daily NAV computation, integrated accounting with full general ledger and financial statements, role-based governance with a comprehensive audit trail, and a cross-filterable analytics dashboard—built on an API-first architecture for seamless system integration.",
+    period: "2026 - Present",
     className: "md:col-span-2",
   },
   {
